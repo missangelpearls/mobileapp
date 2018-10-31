@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ISL App</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="alphabets">Alphabets</string>
+    <string name="fruitsveg">Foods</string>
+    <string name="medical">Medical</string>
+    <string name="education">Education</string>
+    <string name="feelings">Feelings/Emoticons</string>
+    <string name="share">Share/Refer</string>
+
+</resources>

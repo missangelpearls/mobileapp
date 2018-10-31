@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+
+    <item android:id="@+id/share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="@string/share"/>
+
+    <item android:id="@+id/donateus"
+        android:icon="@drawable/ic_people_outline_black_24dp"
+        android:title="Donate Us"/>
+
+    <item android:id="@+id/aboutus"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="About Us"/>
+
+
+    <item android:title="Social">
+        <menu>
+            <item
+                android:id="@+id/fb"
+                android:icon="@drawable/ic_public_black_24dp"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/ig"
+                android:icon="@drawable/ic_public_black_24dp"
+                android:title="Instagram" />
+        </menu>
+    </item>
+
+
+</menu>
